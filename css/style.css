@@ -9,7 +9,7 @@
 }
 
 body {
-    background-image: url(../img/bg.jpg);
+    background-image: url(../img/fox-minimal-qw.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -152,7 +152,7 @@ input, select {
 }
 
 .done {
-    background-color: #395169;
+    background-color: #ff9d2e;
 }
 
 .done h3 {
